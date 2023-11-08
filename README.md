@@ -24,15 +24,15 @@ Uncovers liquidity trends by documenting cash transactions across business activ
 Provides additional context for operational strategies and expansion considerations.
 
 ## Data Preparation and Cleaning with Power Query
-Strategic data transformation processes are described, ensuring a robust foundation for subsequent analysis.
+This section of the project involves using Power Query to import and cleanse the data. The process ensures that the data used in the report is accurate and formatted correctly, facilitating error-free reporting.
 
 ## DAX Calculations
-Explained measures for debt-to-equity, quick ratio, and revenue growth cater to an in-depth understanding of financial health and potential for expansion.
+Included measures for debt-to-equity, quick ratio, and revenue growth cater to an in-depth understanding of financial health and potential for expansion.
 
 ## Visualizations and Reporting
 This section includes a series of visual reports, each developed to aid in strategic business analysis:
 
-- **Expense Reports**: Month-over-month and year-over-year expense analysis.
+- **Expense Reports**: Breakdown of expenses analysis over periods.
 - **Sales Dashboards**: In-depth views into sales data, supporting revenue forecasting.
 - **Financial Health Indicators**: Dashboards that aggregate financial ratios, offering insights into the business's capability to undertake expansion.
 
